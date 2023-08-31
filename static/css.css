@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+.card {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0%;
+    box-shadow:10px 10px rgb(24, 24, 24);
+    border-radius: 5%;
+
+}
+.card-1 {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: justify;
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+    box-shadow:10px 10px rgb(24, 24, 24);
+    border-radius: 5%;
+
+
+}
+
+.card-2 {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: justify;
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    box-shadow:10px 10px rgb(24, 24, 24);
+    border-radius: 5%;
+
+
+}
+  
+th {
+    
+    text-align: center;
+} 
+td {
+    text-align: center;
+}  
+footer {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    box-shadow:10px 10px rgb(24, 24, 24);
+    border-radius: 5%;
+
+
+}
